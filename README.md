@@ -3,7 +3,7 @@
 
 Application for browsing volcano locations. (Only US)
 
-## Run:
+## Run
 - docker build -t volcano_mapper:1.0 . 
 - docker run -p 3030:3030 -d volcano_mapper:1.0
 
